@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+data/BioMTL/signals/
+data/BioMTL/_cache_*.npz
+
+results/
+outputs/
+*.pth
